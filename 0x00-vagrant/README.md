@@ -1,0 +1,2 @@
+-s; --kernel-name.print kernel name.
+-m, --machine.print the machine hardware name.
